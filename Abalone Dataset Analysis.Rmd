@@ -1,6 +1,6 @@
 ---
-title: "Statistics 101A Final Project"
-author: "Romy Gou - 105808911"
+title: "Abalone Dataset Analysis Project"
+author: "Romy Gou"
 date: "`r Sys.Date()`"
 output: 
   pdf_document:

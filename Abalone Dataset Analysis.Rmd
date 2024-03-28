@@ -2,9 +2,7 @@
 title: "Abalone Dataset Analysis Project"
 author: "Romy Gou"
 date: "`r Sys.Date()`"
-output: 
-  pdf_document:
-    fig_caption: yes
+output: rmarkdown::github_document
 ---
 
 ```{r, echo = FALSE}
